@@ -12,9 +12,10 @@
 ## The client wants atleast top 5 clusters(shops).
 
 ## Project Approach
-![image](https://github.com/Whidevil/KMeans/assets/89446089/63fc64e0-1687-4eb0-b296-cf44860f2416)
+![image](https://github.com/Whidevil/KMeans/assets/89446089/a7086e2b-220a-4297-a810-20a19501c537)
 
-## Project Output
+
+## Project Methodology
 ![image](https://github.com/Whidevil/KMeans/assets/89446089/84a20cfa-c5ee-47d3-92d0-8c8fbd937988)
 
 ## **Conclusion :**
